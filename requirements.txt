@@ -171,7 +171,7 @@ nltk==3.7
 notebook==6.4.12
 numba==0.54.1
 numexpr==2.8.3
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.2.0
 optuna==2.10.1
 orjson==3.7.8
