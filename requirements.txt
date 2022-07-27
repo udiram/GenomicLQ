@@ -201,7 +201,7 @@ prettytable==3.3.0
 prometheus-client==0.14.1
 prometheus-flask-exporter==0.20.2
 prompt-toolkit==3.0.30
-protobuf==3.20.1
+protobuf==4.21.4
 psutil==5.9.1
 pure-eval==0.2.2
 py==1.11.0
