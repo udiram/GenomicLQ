@@ -263,7 +263,7 @@ smart-open==6.0.0
 smmap==5.0.0
 sniffio==1.2.0
 soupsieve==2.3.2.post1
-spacy==2.3.7
+spacy==3.4.1
 SQLAlchemy==1.4.39
 sqlparse==0.4.2
 srsly==2.4.4
