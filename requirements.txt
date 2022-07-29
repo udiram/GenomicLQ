@@ -88,7 +88,7 @@ fugue==0.7.0
 fugue-sql-antlr==0.1.0
 funcy==1.17
 future==0.18.2
-gensim==3.8.3
+gensim==4.2.0
 gevent==21.12.0
 gitdb==4.0.9
 GitPython==3.1.27
