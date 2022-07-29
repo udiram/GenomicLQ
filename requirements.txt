@@ -268,7 +268,7 @@ SQLAlchemy==1.4.39
 sqlparse==0.4.2
 srsly==2.4.4
 stack-data==0.3.0
-starlette==0.19.1
+starlette==0.20.4
 statsmodels==0.13.2
 stevedore==4.0.0
 tabulate==0.8.10
