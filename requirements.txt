@@ -252,7 +252,7 @@ scikit-image==0.19.3
 scikit-learn==1.1.1
 scikit-optimize==0.9.0
 scikit-plot==0.3.7
-scipy==1.8.1
+scipy==1.9.0
 seaborn==0.11.2
 Send2Trash==1.8.0
 shap==0.41.0
