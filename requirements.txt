@@ -16,7 +16,7 @@ attrs==22.1.0
 autopage==0.5.1
 autoviz==0.1.42
 azure-core==1.24.2
-azure-storage-blob==12.13.0
+azure-storage-blob==12.13.1
 backcall==0.2.0
 backoff==1.10.0
 bcrypt==3.2.2
