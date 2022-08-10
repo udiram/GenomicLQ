@@ -74,7 +74,7 @@ fairlearn==0.7.0
 fastapi==0.79.0
 fastjsonschema==2.16.1
 ffmpy==0.3.0
-filelock==3.7.1
+filelock==3.8.0
 Flask==2.2.2
 Flask-Compress==1.12
 Flask-SeaSurf==1.1.1
