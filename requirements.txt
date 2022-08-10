@@ -14,7 +14,7 @@ async-timeout==4.0.2
 atomicwrites==1.4.1
 attrs==22.1.0
 autopage==0.5.1
-autoviz==0.1.42
+autoviz==0.1.43
 azure-core==1.25.0
 azure-storage-blob==12.13.1
 backcall==0.2.0
