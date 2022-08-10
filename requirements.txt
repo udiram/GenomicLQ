@@ -9,12 +9,12 @@ anyio==3.6.1
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens==2.0.5
+asttokens==2.0.7
 async-timeout==4.0.2
 atomicwrites==1.4.1
 attrs==22.1.0
 autopage==0.5.1
-autoviz==0.1.42
+autoviz==0.1.43
 azure-core==1.25.0
 azure-storage-blob==12.13.1
 backcall==0.2.0
@@ -95,7 +95,7 @@ GitPython==3.1.27
 google-api-core==2.8.2
 google-auth==2.10.0
 google-cloud-core==2.3.2
-google-cloud-storage==2.4.0
+google-cloud-storage==2.5.0
 google-crc32c==1.3.0
 google-resumable-media==2.3.3
 googleapis-common-protos==1.56.4
