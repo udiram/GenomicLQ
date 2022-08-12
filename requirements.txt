@@ -205,7 +205,7 @@ protobuf==4.21.5
 psutil==5.9.1
 pure-eval==0.2.2
 py==1.11.0
-py4j==0.10.9.5
+py4j==0.10.9.6
 pyamg==4.2.3
 pyaml==21.10.1
 pyarrow==8.0.0
