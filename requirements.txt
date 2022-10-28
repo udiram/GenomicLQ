@@ -208,7 +208,7 @@ py==1.11.0
 py4j==0.10.9.6
 pyamg==4.2.3
 pyaml==21.10.1
-pyarrow==8.0.0
+pyarrow==10.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycaret==2.3.10
