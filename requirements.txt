@@ -168,7 +168,7 @@ nbformat==5.4.0
 nest-asyncio==1.5.5
 networkx==2.8.5
 nltk==3.7
-notebook==6.4.12
+notebook==6.5.2
 numba==0.56.0
 numexpr==2.8.3
 numpy==1.23.2
