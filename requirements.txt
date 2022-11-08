@@ -49,7 +49,7 @@ cryptography==37.0.4
 cufflinks==0.17.3
 cycler==0.11.0
 cymem==2.0.6
-dash==2.6.1
+dash==2.7.0
 dash-auth==1.4.1
 dash-bootstrap-components==1.2.1
 dash-core-components==2.0.0
