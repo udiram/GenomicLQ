@@ -141,7 +141,7 @@ kmodes==0.12.1
 lightgbm==3.3.2
 lime==0.2.0.1
 linkify-it-py==2.0.0
-llvmlite==0.39.0
+llvmlite==0.39.1
 m2cgen==0.10.0
 Mako==1.2.2
 Markdown==3.4.1
