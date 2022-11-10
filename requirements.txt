@@ -71,7 +71,7 @@ evidently==0.1.56.dev0
 executing==1.2.0
 explainerdashboard==0.4.0
 fairlearn==0.7.0
-fastapi==0.82.0
+fastapi==0.86.0
 fastjsonschema==2.16.1
 ffmpy==0.3.0
 filelock==3.8.0
