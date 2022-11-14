@@ -195,7 +195,7 @@ platformdirs==2.5.2
 plotly==5.10.0
 pluggy==1.0.0
 pox==0.3.2
-ppft==1.7.6.5
+ppft==1.7.6.6
 preshed==3.0.7
 prettytable==3.3.0
 prometheus-client==0.15.0
