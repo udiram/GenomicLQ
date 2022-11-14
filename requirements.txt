@@ -198,7 +198,7 @@ pox==0.3.2
 ppft==1.7.6.5
 preshed==3.0.7
 prettytable==3.3.0
-prometheus-client==0.14.1
+prometheus-client==0.15.0
 prometheus-flask-exporter==0.20.3
 prompt-toolkit==3.0.30
 protobuf==4.21.6
