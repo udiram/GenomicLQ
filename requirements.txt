@@ -174,7 +174,7 @@ numexpr==2.8.3
 numpy==1.23.2
 oauthlib==3.2.2
 optuna==2.10.1
-orjson==3.7.12
+orjson==3.8.1
 oyaml==1.0
 packaging==21.3
 pandas==1.4.3
