@@ -40,7 +40,7 @@ cliff==4.0.0
 cloudpickle==2.1.0
 cmaes==0.8.2
 cmd2==2.4.2
-colorama==0.4.5
+colorama==0.4.6
 colorcet==3.0.0
 colorlog==6.6.0
 colorlover==0.3.0
