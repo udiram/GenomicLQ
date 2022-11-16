@@ -221,7 +221,7 @@ Pygments==2.13.0
 PyJWT==2.4.0
 pyLDAvis==3.3.1
 PyNaCl==1.5.0
-pynndescent==0.5.7
+pynndescent==0.5.8
 pyod==1.0.4
 pyparsing==3.0.9
 pyperclip==1.8.2
