@@ -107,7 +107,7 @@ h11==0.14.0
 holoviews==1.15.2
 htmlmin==0.1.12
 httpcore==0.15.0
-httpx==0.23.0
+httpx==0.23.1
 hvplot==0.8.0
 hyperopt==0.2.7
 idna==3.3
