@@ -137,7 +137,7 @@ jupyter-dash==0.4.2
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
 kiwisolver==1.4.4
-kmodes==0.12.1
+kmodes==0.12.2
 lightgbm==3.3.2
 lime==0.2.0.1
 linkify-it-py==2.0.0
